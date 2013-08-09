@@ -1,0 +1,15 @@
+1. Opprett nytt repository i GitHub.
+2. Lag nytt repository på PC i Git GUI
+3. Gå til folder, høyre-klikk og gjør Git Init.
+4. Høyreklikk folder og velg åpne i Git Gui.
+5. Legg til new Remote
+	Name: origin
+	Location: https://github.com/howieoak/Weightlog.git
+   Velg "Do Nothing Else Now"
+6. Overfør filer til lokal repository folder.
+7. I Git Gui, Trykk:
+	Rescan
+	Stage Changed
+	Signoff
+	Commit
+	Push
